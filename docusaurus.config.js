@@ -71,7 +71,7 @@ const config = {
           },
           {to: '/blog', label: '博客', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/COXNET-CN/dct-docs',
             label: 'GitHub',
             position: 'right',
           },
