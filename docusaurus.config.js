@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'DCT 文档',
   tagline: '提供DCT的使用文档',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://coxnet-cn.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'https://github.com/COXNET-CN', // Usually your GitHub org/user name.
+  projectName: 'dct-docs', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -85,15 +85,15 @@ const config = {
             items: [
               {
                 label: '搭建',
-                href: 'xxxx@xx.com'
+                to: '/docs/preface',
               },
               {
                 label: '主题',
-                href: 'xxxx@xx.com'
+                to: '/docs/preface',
               },
               {
                 label: '插件',
-                href: 'xxxx@xx.com'
+                to: '/docs/preface',
               },
             ],
           },
@@ -115,11 +115,11 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: '更多',
             items: [
               {
-                label: '更新日志',
-                to: '/logs',
+                label: '博客',
+                to: '/blog',
               },
               {
                 label: 'GitHub',
