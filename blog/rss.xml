@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>DCT 文档 Blog</title>
-        <link>https://coxnet-cn.github.io/blog</link>
+        <link>https://coxnet-cn.github.io/dct-docs/blog</link>
         <description>DCT 文档 Blog</description>
         <lastBuildDate>Tue, 22 Nov 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>zh-Hans</language>
         <item>
             <title><![CDATA[DCT 文档创建]]></title>
-            <link>https://coxnet-cn.github.io/blog/start</link>
+            <link>https://coxnet-cn.github.io/dct-docs/blog/start</link>
             <guid>start</guid>
             <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[DCT 项目相关联的文档创建。]]></description>

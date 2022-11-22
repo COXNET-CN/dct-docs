@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdct_docs=self.webpackChunkdct_docs||[]).push([[719],{3598:s=>{s.exports=JSON.parse('{"permalink":"/dct-docs/blog/tags/documents","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
