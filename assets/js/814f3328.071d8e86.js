@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdct_docs=self.webpackChunkdct_docs||[]).push([[535],{5641:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"DCT \u6587\u6863\u521b\u5efa","permalink":"/blog/start"}]}')}}]);
