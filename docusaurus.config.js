@@ -9,7 +9,7 @@ const config = {
   title: 'DCT 文档',
   tagline: '提供DCT的使用文档',
   url: 'https://coxnet-cn.github.io',
-  baseUrl: '/',
+  baseUrl: '/dct-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
